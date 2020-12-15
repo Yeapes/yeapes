@@ -4,7 +4,7 @@
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
 
-<a href="https://github.com/yzp-99/">
+<a href="https://github.com/yeapes">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://mail.google.com/ ">
@@ -75,8 +75,8 @@
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-HTML       20 hrs 16 mins  ████████████████████░░░░░   79.63 % 
-Python     5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Laravel       14 hrs 16 mins  ████████████████████░░░░░   79.63 % 
+React     5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
 Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 INI        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
