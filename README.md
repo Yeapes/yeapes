@@ -12,7 +12,7 @@
   <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg" />
 </a>
 
-<a href="https://instagram.com/yeapes">
+<a href="https://www.instagram.com/_yeapes_/">
   <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
 </a>
 
