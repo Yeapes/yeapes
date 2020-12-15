@@ -1,11 +1,15 @@
 ### Hello 👋, This is yeapes.
 
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+<a href="https://facebook.com/yeapes.cse">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />
 </a>
 
-<a href="https://facebook.com/yeapes.cse">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />
+<a href="https://facebook.com/@rayeapes">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitter.svg" />
+</a>
+
+<a href="https://youtube.com/yeapes">
+  <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg" />
 </a>
 
 <a href="https://github.com/yeapes">
