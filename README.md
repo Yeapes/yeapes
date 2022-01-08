@@ -68,7 +68,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"></code>
-<code><img height="20" src="https://www.iconspng.com/images/free-code-camp-logo.jpg"></code>
+<code><img height="20" src="https://vectorlogoseek.com/freecodecamp-vector-logo-svg/"></code>
  
 
 **Thanks for coming ❤️ **
