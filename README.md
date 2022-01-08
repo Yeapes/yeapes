@@ -39,9 +39,8 @@
 
 - 👨‍🏛 I'm currently a student at **Bangladesh University**.
 - 💻 Major is big Computer Science and technology.
-- 🌱 I'm currently learning **React And React Native and English**. 
+- 🌱 I'm currently learning **React And React Native**. 
 - 🤔 My hobbies are **playing cricket and running**.
-- 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email:
 - Or Gmail:yeapesh2831@gmail.com.
@@ -64,7 +63,7 @@
 
 **Technology being learned**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
 <code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
