@@ -51,8 +51,7 @@
  
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="20" src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code> 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code> 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
@@ -60,14 +59,9 @@
 
 **Technology being learned**
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg"></code> 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 
 **Favorite sites**
 
@@ -91,4 +85,4 @@ INI        1 min           ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-**Thanks for coming❤️**
+**Thanks for coming ❤️ **
