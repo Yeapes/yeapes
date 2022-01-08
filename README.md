@@ -65,24 +65,10 @@
 
 **Favorite sites**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-
-
-📊 **My recent programming status:**
-<!--START_SECTION:waka-->
-```text
-Laravel       14 hrs 16 mins  ████████████████████░░░░░   79.63 % 
-React     5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-INI        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-```
-<!--END_SECTION:waka-->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"></code>
+<code><img height="20" src="https://www.iconspng.com/images/free-code-camp-logo.jpg"></code>
+ 
 
 **Thanks for coming ❤️ **
