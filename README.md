@@ -27,9 +27,9 @@
 <br />
 <br />
 
-- I'm a dreamer! dream for bright programming world.** 
+- I'm a dreamer! 
 - I like to coding with  **PHP  Laravel React** to build  **beautiful application.**
-- I also like **literature, reading and writing.** 
+- I also like **reading and writing.** 
 - I used to dream of being a cricketer.But **the reality made me have to learn a technology💻,**
 - and I also came into contact with **programming**.
 - Although I was **not interested** in it at the beginning,
