@@ -20,6 +20,8 @@
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+
+
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
@@ -45,7 +47,7 @@
 - 📫 Please contact me via email:
 - Or Gmail:yeapesh2831@gmail.com.
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=yeapes&count_private=true&show_icons=true" alt="yeapes" />
+ 
 
 **Languages and Tools:**  
  
