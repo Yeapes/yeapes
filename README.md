@@ -46,9 +46,7 @@
 <a href="https://github.com/yeapes">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-
-
+ 
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
@@ -73,9 +71,7 @@
 - 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email:
 - Or Gmail:yeapesh2831@gmail.com.
-
  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
